@@ -13,3 +13,6 @@ def strxor(a, b):     # xor two strings of different lengths
 
 def main():
     [print(b) for b in CIPHER]
+
+if __name__ == "__main__":
+    main()
